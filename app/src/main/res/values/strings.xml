@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="this_is_a_little_boy">This is a little boy!</string>
+    <string name="todo">TODO</string>
+    <string name="this_is_guy_manly_young_boy_out_of_north_carolina_this_is_guy_manly_young_boy_out_of_north_carolina_this_is_guy_manly_young_boy_out_of_north_carolina_this_is_guy_manly_young_boy_out_of_north_carolina">This is Guy Manly, young boy out of North Carolina. This is Guy Manly, young boy out of North Carolina. This is Guy Manly, young boy out of North Carolina. This is Guy Manly, young boy out of North Carolina.</string>
+    <string name="hello">Hello</string>
+</resources>
